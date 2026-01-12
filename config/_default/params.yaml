@@ -99,6 +99,8 @@ hugoblox:
       text: ""
       url: ""
 
+  favicon:
+    icon: assets/media/icons/custom/favicon.png
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER
   # Site footer
