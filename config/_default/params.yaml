@@ -97,10 +97,7 @@ hugoblox:
     cta:
       enable: false
       text: ""
-      url: ""
-    navbar:
-      logo:
-        image: "icon.png"                      
+      url: ""                    
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER
   # Site footer
