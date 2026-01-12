@@ -83,27 +83,27 @@ skills:
   - name: Technical Skills
     items:
       - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
+        level: 4
+      - label: Unity VR Dev
+        level: 4
+      - label: Algorithms
         level: 4
   - name: Research & Communication
     items:
       - label: Academic Writing
         level: 5
-      - label: Conference Presentations
+      - label: Public Speaking
         level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: Fun To Work With
+        level: 5
 
 languages:
   - name: English
     level: 5
     label: Native
   - name: Spanish
-    level: 4
-    label: Fluent
+    level: 5
+    label: Native
 
 #awards:
 #  - title: Best Paper Award
