@@ -28,7 +28,7 @@ featured: true
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
+    arxiv: 2506.16542
 
 links:
 - type: conference paper
