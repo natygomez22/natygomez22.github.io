@@ -1,5 +1,5 @@
 ---
-title: 'Virtual Interviewers, Real Results: Exploring AI-Driven Mock Technical Interviews on Student Readiness and Confidence.'
+title: 'Virtual Interviewers, Real Results: Exploring AI-Driven Mock Technical Interviews on Student Readiness and Confidence'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here

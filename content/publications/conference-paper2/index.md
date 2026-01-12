@@ -1,5 +1,5 @@
 ---
-title: 'Minimalist Neural Networks for Gesture Recognition on Wearable Capacitive Touch Textiles With Comparative User Study.'
+title: 'Minimalist Neural Networks for Gesture Recognition on Wearable Capacitive Touch Textiles With Comparative User Study'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
