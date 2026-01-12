@@ -2,12 +2,12 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Nathalia Gomezzzzz
+  display: Nathalia Gomez
   given: Nathalia
   family: Gomez
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: she/herz
+  pronouns: she/her
 postnominals:
   - PhD
 status:
