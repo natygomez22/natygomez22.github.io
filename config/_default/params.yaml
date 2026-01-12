@@ -97,9 +97,7 @@ hugoblox:
     cta:
       enable: false
       text: ""
-      url: ""    
-  favicon:
-    icon: icons/custom/favicon.png                
+      url: ""            
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER
   # Site footer
