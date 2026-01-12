@@ -1,25 +1,25 @@
 ---
-title: "An example preprint / working paper"
+title: "Virtual Interviewers, Real Results: Exploring AI-Driven Mock Technical Interviews on Student Readiness and Confidence."
 authors:
-- me
-date: "2019-04-07T00:00:00Z"
+- Nathalia Gomez, S. Sue Batham, Matias Volonte, and Tiffany D. Do
+date: "2025-04-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Technical interviews are a critical yet stressful step in the hiring process for computer science graduates, often hindered by limited access to practice opportunities. This formative qualitative study (n=20) explores whether a multimodal AI system can realistically simulate technical interviews and support confidence-building among candidates. Participants engaged with an AI-driven mock interview tool featuring whiteboarding tasks and real-time feedback. Many described the experience as realistic and helpful, noting increased confidence and improved articulation of problem-solving decisions. However, challenges with conversational flow and timing were noted. These findings demonstrate the potential of AI-driven technical interviews as scalable and realistic preparation tools, suggesting that future research could explore variations in interviewer behavior and their potential effects on candidate preparation.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This qualitative study (n=20) examines an AI-driven mock technical interview system, finding that participants perceived it as realistic and confidence-building while improving articulation of problem-solving. Results suggest AI interviews are a promising, scalable preparation tool despite remaining conversational challenges.
 
 tags:
 - Large Language Models
@@ -31,24 +31,24 @@ hugoblox:
     arxiv: 1512.04133v1
 
 links:
-- type: preprint
+- type: conference paper
   provider: arxiv
-  id: 1512.04133v1
-- type: code
-  url: https://github.com/HugoBlox/kit
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
+  id: 2506.16542
+#- type: code
+#  url: https://github.com/HugoBlox/kit
+#- type: slides
+#  url: https://www.slideshare.net/
+#- type: dataset
+#  url: "#"
 - type: poster
   url: "#"
-- type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
+#- type: source
+#  url: "#"
+#- type: video
+#  url: https://youtube.com
+#- type: custom
+#  label: Custom Link
+#  url: http://example.org
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -73,7 +73,7 @@ projects:
 slides: ""
 ---
 
-This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
+# This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
 
 > [!NOTE]
 > Create your slides in Markdown - click the *Slides* button to check out the example.
