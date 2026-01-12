@@ -98,9 +98,9 @@ hugoblox:
       enable: false
       text: ""
       url: ""
-
-  favicon:
-    icon: assets/media/icons/custom/favicon.png
+    navbar:
+      logo:
+        image: "icon.png"                      
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER
   # Site footer
