@@ -59,7 +59,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      #columns: 2
+      columns: 1
   - block: collection
     content:
       title: Recent Publications
@@ -70,6 +70,26 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: resume-experience
+    content:
+      username: me
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: me
+  #- block: resume-awards
+  #  content:
+  #    title: Awards
+  #    username: me
+  #- block: resume-languages
+  #  content:
+  #    title: Languages
+  #    username: me
   #- block: collection
   #  id: talks
   #  content:

@@ -47,8 +47,8 @@ hugoblox:
 
 # Custom links
 links:
-  - type: pdf
-    url: conference-paper.pdf
+  #- type: pdf
+  #  url: conference-paper.pdf
   - type: poster
     url: uploads/AITSposter.pdf
   #- type: code
