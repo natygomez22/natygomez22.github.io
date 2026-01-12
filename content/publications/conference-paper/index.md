@@ -5,7 +5,7 @@ title: 'Virtual Interviewers, Real Results: Exploring AI-Driven Mock Technical I
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Nathalia Gomez
+  - username: me
   - S. Sue Batham
   - Matias Volonte
   - Tiffany D. Do
