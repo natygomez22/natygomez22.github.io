@@ -7,7 +7,7 @@ title: 'Minimalist Neural Networks for Gesture Recognition on Wearable Capacitiv
 authors:
   - Daniel Schwartz
   - Lev A Saunders
-  - username: me
+  - me
   - Yusuf Osmanlioglu
   - Richard Vallett
   - Genevieve Dion
